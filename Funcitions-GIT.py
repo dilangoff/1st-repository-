@@ -62,3 +62,15 @@ for i in range(times)
 
 
 print_muliple_times(,Helllo cumputer scenist, 4)
+     
+     
+#4.14.7 print mulitple times
+# Dilan Goff
+#2.19.19
+
+def (print muliple times(string, times):
+for i in range(times)
+    print(string)
+
+
+print_muliple_times(,Helllo cumputer scenist, 4)
