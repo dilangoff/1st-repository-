@@ -33,3 +33,32 @@ def something():
     print(my_variable + 10)
 
 something()
+
+
+
+# 4.15.5: default parameter values
+#DIlan GOff
+#2.4.19
+
+
+
+def print_two_numbers(x, y=20):
+    print('Frist number: ' + str(x))
+    print('second number: ' + str(y))
+
+
+print_two_numbers(5, 67)
+print_two_numbers(23)
+
+
+
+#4.14.7 print mulitple times
+# Dilan Goff
+#2.19.19
+
+def (print muliple times(string, times):
+for i in range(times)
+    print(string)
+
+
+print_muliple_times(,Helllo cumputer scenist, 4)
